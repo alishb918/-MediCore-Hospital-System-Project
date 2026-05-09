@@ -3,7 +3,7 @@
 # MediCore Hospital System Project:
 
 ## GitHub Repository
-https://github.com/alishb918/-MediCore-Hospital-System-
+https://github.com/alishb918/-MediCore-Hospital-System-Project
 
 ## Description
 Hospital Management System (sfml used)
