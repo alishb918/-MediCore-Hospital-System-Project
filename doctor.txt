@@ -1,0 +1,3 @@
+1,Dr. Zainab,Gemneral physician,03091563672,zainab123,1500.0
+2,Dr. Rubab,Gyaneacologist,03162202175,rubab123,1000.0
+3,Dr. Marwa,dermatologist,03204245262,marwa123,2000.04,zainab ansar,neurosergon,12345678901,alishb,1e+07
